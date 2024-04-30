@@ -3,11 +3,13 @@ Acá se encuentra el material para los análisis de resultados y las actividades
 
 # Link para ejecutar cuadernillos en Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/Introduccion_a_Python_BIO266E_gcolab.ipynb): Introducción a Python  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/Cinetica_Enzimatica_1_BIO266E_gcolab.ipynb): Cinética Enzimática I  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/Cinetica_Enzimatica_2_BIO266E_gcolab.ipynb): Cinética Enzimática II  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/analisis_imagenes_simple_BIO266E_gcolab.ipynb): Análisis de Imágenes (Simple)  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/analisis_imagenes_avanzado_BIO266E_gcolab.ipynb): Análisis de Imágenes (Avanzado)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/Introduccion_a_Python_BIO266E_gcolab.ipynb): Introducción a Python (2020)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/Cinetica_Enzimatica_1_BIO266E_gcolab.ipynb): Cinética Enzimática I (2020)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/Cinetica_Enzimatica_2_BIO266E_gcolab.ipynb): Cinética Enzimática II (2020)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/analisis_imagenes_simple_BIO266E_gcolab.ipynb): Análisis de Imágenes (Simple) (2020)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/analisis_imagenes_avanzado_BIO266E_gcolab.ipynb): Análisis de Imágenes (Avanzado) (2020)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/Cinetica_Enzimatica_BIO266E_2021.ipynb): Actividades de Cinética Enzimática (2021)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/AnalisisFotosCinetica_BIO266E_2022.ipynb): Cinética Enzimática a partir de imágenes (2022)  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/MODULO1_Introduccion_a_Python_2023.ipynb): Introducción a Python (2023)  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/MODULO2_Imagenes_y_Fluorescencia_2023.ipynb): Análisis de Imágenes y Fluorescencia (2023)  
 
