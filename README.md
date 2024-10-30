@@ -11,6 +11,10 @@ In this repository we host the material for the activities performed *in silico*
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/AnalisisFotosCinetica_BIO266E_2022.ipynb): Enzyme Kinetics: Build a kinetic curve from phone images (2022)  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/MODULO1_Introduccion_a_Python_2023.ipynb): Introduction to Python (2023)  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/MODULO2_Imagenes_y_Fluorescencia_2023.ipynb): Fluorescence: Image processing and analysis (2023)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/MODULO1_Introduccion_a_Python_2024.ipynb): Intro 2024: Introduction to Python (2024)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/MODULO2_Imagenes_y_Fluorescencia_2024.ipynb): Image Analysis and Processing: Enzyme Kinetics: Build a kinetic curve from phone images (2024)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlejoArav/BIO266E/blob/master/GoogleColab/TAREA_2024_BIO266E.ipynb): Homework: Image processing and analysis (2023)  
+
 
 ## Licencia / License
 El contenido general de este proyecto se encuentra bajo licencia [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/), y el código asociado se encuetra bajo licencia [GNU General Public License v3.0](LICENSE.md).
